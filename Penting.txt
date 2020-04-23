@@ -1,0 +1,2 @@
+1. Untuk Login menggunakan admin admin
+2. Import CSV hanya ada di tabel Supplier
